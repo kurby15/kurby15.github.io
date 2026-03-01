@@ -1,0 +1,72 @@
+[2026-02-26 17:15:48] Attempting ready email to shinrabaku9@gmail.com for book 'Harry Potter and the Sorcerer's Stone'
+[2026-02-26 17:15:52] Ready email sent successfully to shinrabaku9@gmail.com
+[2026-02-26 17:15:52] Reservation 10 marked ready and email confirmed for shinrabaku9@gmail.com
+[2026-02-26 17:28:37] Attempting cancellation email to shinrabaku9@gmail.com for book 'Harry Potter and the Sorcerer's Stone'
+[2026-02-26 17:28:40] Cancellation email sent successfully to shinrabaku9@gmail.com
+[2026-02-26 17:28:40] Reservation 10 cancelled and email confirmed for shinrabaku9@gmail.com
+[2026-02-26 17:29:21] Attempting ready email to shinrabaku9@gmail.com for book 'The Great Gatsby'
+[2026-02-26 17:29:25] Ready email sent successfully to shinrabaku9@gmail.com
+[2026-02-26 17:29:25] Reservation 11 marked ready and email confirmed for shinrabaku9@gmail.com
+[2026-02-26 17:29:34] Attempting cancellation email to shinrabaku9@gmail.com for book 'The Great Gatsby'
+[2026-02-26 17:29:37] Cancellation email sent successfully to shinrabaku9@gmail.com
+[2026-02-26 17:29:37] Reservation 11 cancelled and email confirmed for shinrabaku9@gmail.com
+[2026-02-26 18:52:42] Attempting ready email to shinrabaku9@gmail.com for book 'Harry Potter and the Sorcerer's Stone'
+[2026-02-26 18:52:46] Ready email sent successfully to shinrabaku9@gmail.com
+[2026-02-26 18:52:46] Reservation 12 marked ready and email confirmed for shinrabaku9@gmail.com
+[2026-02-26 18:53:01] Attempting cancellation email to shinrabaku9@gmail.com for book 'Harry Potter and the Sorcerer's Stone'
+[2026-02-26 18:53:05] Cancellation email sent successfully to shinrabaku9@gmail.com
+[2026-02-26 18:53:05] Reservation 12 cancelled and email confirmed for shinrabaku9@gmail.com
+[2026-02-26 19:09:01] Attempting ready email to jkdvalencerina@gmail.com for book 'Harry Potter and the Sorcerer's Stone'
+[2026-02-26 19:09:04] Ready email sent successfully to jkdvalencerina@gmail.com
+[2026-02-26 19:09:04] Reservation 13 marked ready and email confirmed for jkdvalencerina@gmail.com
+[2026-02-26 19:15:08] Attempting ready email to jkdvalencerina@gmail.com for book 'Harry Potter and the Sorcerer's Stone'
+[2026-02-26 19:15:11] Ready email sent successfully to jkdvalencerina@gmail.com
+[2026-02-26 19:15:11] Reservation 14 marked ready and email confirmed for jkdvalencerina@gmail.com
+[2026-02-27 07:45:05] Attempting ready email to jkdvalencerina@gmail.com for book '1984'
+[2026-02-27 07:45:07] PHPMailer exception: SMTP Error: Could not authenticate.
+[2026-02-27 07:45:07] Reservation 15 marked ready but email failed: Gmail SMTP auth failed. Use a Google App Password (16 characters), enable 2-Step Verification, and set fromAddress equal to username.
+[2026-02-27 07:59:57] Attempting cancellation email to jkdvalencerina@gmail.com for book '1984'
+[2026-02-27 08:00:01] Cancellation email sent successfully to jkdvalencerina@gmail.com
+[2026-02-27 08:00:01] Reservation 15 cancelled and email confirmed for jkdvalencerina@gmail.com
+[2026-02-27 08:01:11] Attempting ready email to jkdvalencerina@gmail.com for book '1984'
+[2026-02-27 08:01:14] Ready email sent successfully to jkdvalencerina@gmail.com
+[2026-02-27 08:01:14] Reservation 16 marked ready and email confirmed for jkdvalencerina@gmail.com
+[2026-02-27 11:16:47] Attempting ready email to bakushinra9@gmail.com for book '1984'
+[2026-02-27 11:16:50] Ready email sent successfully to bakushinra9@gmail.com
+[2026-02-27 11:16:50] Reservation 17 marked ready and email confirmed for bakushinra9@gmail.com
+[2026-02-27 11:27:29] Attempting ready email to bakushinra9@gmail.com for book '1984'
+[2026-02-27 11:27:33] Ready email sent successfully to bakushinra9@gmail.com
+[2026-02-27 11:27:33] Reservation 18 marked ready and email confirmed for bakushinra9@gmail.com
+[2026-02-27 11:28:12] Attempting cancellation email to bakushinra9@gmail.com for book '1984'
+[2026-02-27 11:28:16] Cancellation email sent successfully to bakushinra9@gmail.com
+[2026-02-27 11:28:16] Reservation 18 cancelled and email confirmed for bakushinra9@gmail.com
+[2026-02-27 11:29:47] Attempting ready email to bakushinra9@gmail.com for book 'The Great Gatsby'
+[2026-02-27 11:29:51] Ready email sent successfully to bakushinra9@gmail.com
+[2026-02-27 11:29:51] Reservation 19 marked ready and email confirmed for bakushinra9@gmail.com
+[2026-02-27 12:23:00] Attempting ready email to bakushinra9@gmail.com for book 'The Great Gatsby'
+[2026-02-27 12:23:04] Ready email sent successfully to bakushinra9@gmail.com
+[2026-02-27 12:23:04] Reservation 20 marked ready and email confirmed for bakushinra9@gmail.com
+[2026-02-27 12:25:22] Attempting ready email to bakushinra9@gmail.com for book 'The Great Gatsby'
+[2026-02-27 12:25:25] Ready email sent successfully to bakushinra9@gmail.com
+[2026-02-27 12:25:25] Reservation 21 marked ready and email confirmed for bakushinra9@gmail.com
+[2026-02-27 13:00:40] Attempting ready email to shinrabaku9@gmail.com for book 'Harry Potter and the Sorcerer's Stone'
+[2026-02-27 13:00:43] Ready email sent successfully to shinrabaku9@gmail.com
+[2026-02-27 13:00:43] Reservation 22 marked ready and email confirmed for shinrabaku9@gmail.com
+[2026-02-27 13:03:10] Attempting cancellation email to shinrabaku9@gmail.com for book 'To Kill a Mockingbird'
+[2026-02-27 13:03:14] Cancellation email sent successfully to shinrabaku9@gmail.com
+[2026-02-27 13:03:14] Reservation 23 cancelled and email confirmed for shinrabaku9@gmail.com
+[2026-02-27 13:03:41] Attempting ready email to shinrabaku9@gmail.com for book 'To Kill a Mockingbird'
+[2026-02-27 13:03:45] Ready email sent successfully to shinrabaku9@gmail.com
+[2026-02-27 13:03:45] Reservation 24 marked ready and email confirmed for shinrabaku9@gmail.com
+[2026-02-27 14:31:29] Attempting ready email to bakushinra9@gmail.com for book '1984'
+[2026-02-27 14:31:33] Ready email sent successfully to bakushinra9@gmail.com
+[2026-02-27 14:31:33] Reservation 25 marked ready and email confirmed for bakushinra9@gmail.com
+[2026-02-27 14:40:59] Attempting ready email to bakushinra9@gmail.com for book 'The Great Gatsby'
+[2026-02-27 14:41:03] Ready email sent successfully to bakushinra9@gmail.com
+[2026-02-27 14:41:03] Reservation 26 marked ready and email confirmed for bakushinra9@gmail.com
+[2026-02-27 14:41:27] Attempting cancellation email to bakushinra9@gmail.com for book 'The Great Gatsby'
+[2026-02-27 14:41:30] Cancellation email sent successfully to bakushinra9@gmail.com
+[2026-02-27 14:41:30] Reservation 26 cancelled and email confirmed for bakushinra9@gmail.com
+[2026-02-27 14:42:01] Attempting ready email to bakushinra9@gmail.com for book 'The Great Gatsby'
+[2026-02-27 14:42:04] Ready email sent successfully to bakushinra9@gmail.com
+[2026-02-27 14:42:04] Reservation 27 marked ready and email confirmed for bakushinra9@gmail.com
