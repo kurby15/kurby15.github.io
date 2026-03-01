@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$user = 'root';
-$pass = '';
-$db = 'library';
+$user = 'smnhxbde_libby';
+$pass = 'smnhs_1234567890';
+$db = 'smnhxbde_library';
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
@@ -54,4 +54,5 @@ $mailConfig = [
 $geminiConfig = [
     'apiKey' => 'AIzaSyAiyBa7eVpwOXAlFJ1HgIVrKnq2CSOgTA4', // Optional fallback key; leave blank if using environment variable
     'model' => 'gemini-2.0-flash',
+
 ];
